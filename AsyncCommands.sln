@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30110.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCommands1", "AsyncCommands1\AsyncCommands1.csproj", "{FE59B967-596B-4A94-8CCF-3D30CA5C9114}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCommands4", "AsyncCommands4\AsyncCommands4.csproj", "{ADCC46A0-1D9A-499B-99C0-F2D046CFAEC9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCommandsWithQueue", "AsyncCommandsWithQueue\AsyncCommandsWithQueue.csproj", "{A1540BEE-41DA-467A-AB45-8C5FA8721E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncCommand", "AsyncCommand\AsyncCommand.csproj", "{08425CDC-4FF7-4FE3-B42A-A8D307C550BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A1540BEE-41DA-467A-AB45-8C5FA8721E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1540BEE-41DA-467A-AB45-8C5FA8721E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1540BEE-41DA-467A-AB45-8C5FA8721E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08425CDC-4FF7-4FE3-B42A-A8D307C550BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08425CDC-4FF7-4FE3-B42A-A8D307C550BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08425CDC-4FF7-4FE3-B42A-A8D307C550BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08425CDC-4FF7-4FE3-B42A-A8D307C550BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

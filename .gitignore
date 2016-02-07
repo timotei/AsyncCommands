@@ -1,4 +1,5 @@
-/packages
-obj
-Debug
+packages/
+obj/
+bin/
 /*.suo
+.vs/
